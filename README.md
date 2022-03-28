@@ -1,0 +1,25 @@
++ APIs
+  + http://weatherstack.com/ 
+  + http://openweathermap.org/api/
+  + http://github.com/M-Media-Group/Covid-19-API/
+  + http://fakerapi.it/en/
+  + http://wordsapi.com/
+  + http://developer.clashroyale.com/#/
+  + http://fungenerators.com/api/qrcode/
+  + http://sentim-api.herokuapp.com/
+  + http://shrtco.de/docs/
+  + http://microenv.com/
+  + http://mailboxlayer.com/
+  + http://urlscan.io/docs/api/
+  + http://urlscan.io/docs/api/
+  + http://newsapi.org/
+  + http://pprathameshmore.github.io/QuoteGarden
+  + http://apiflash.com/
+  + http://developer.vimeo.com/
+  + http://github.com/fawazahmed0/currency-api#readme/
+  + http://api.thenounproject.com/index.html
+  + http://ipify.org/
+  + http://docs.mail.tm/
+  + http://freetogame.com/api-doc/
+  + http://developer.uber.com/products/
+  + http://alexwohlbruck.github.io/cat-facts/
